@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # Dhanalakshmi-lab-stack
 
    # Input:
    # p, principal amount
